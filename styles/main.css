@@ -1,0 +1,12 @@
+body {
+  /* Wrap around at a more comfortable reading width. */
+  max-width: 72ch;
+
+  /* Center page. */
+  margin: auto;
+
+  padding: 2ch;
+
+  /* For reading text on a screen a sans-serif font is recommended. */
+  font-family: sans-serif;
+}
